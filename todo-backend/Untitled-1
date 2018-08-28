@@ -1,0 +1,11 @@
+reverseString = (string) => {
+    let newString = ''
+     let i = string.length 
+    for (i ;i > 0; i--){
+        newString += string[i]
+    }
+    return newString
+    
+    newString
+
+}

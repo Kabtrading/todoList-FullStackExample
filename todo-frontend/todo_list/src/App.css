@@ -1,0 +1,20 @@
+.App {
+  text-align: left;
+}
+
+.done {
+  text-decoration: line-through;
+  color: grey;
+}
+
+.clearButton {
+  margin: 10px;
+}
+
+.container {
+  border: 1px black solid;
+}
+
+.taskText {
+  color: black;
+}
